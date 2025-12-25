@@ -1,0 +1,57 @@
+# almog cohen music — Generative Engine Optimization Map
+
+> A music business.
+
+---
+
+## Pages
+
+### Home
+https://almog-cohen-music-694968a5.zappy5.app
+DJ מקצועי לחתונות, בר/בת מצווה ואירועים. צור קשר עוד היום ליצירת רגעים בלתי נשכחים!
+
+### שירותים
+https://almog-cohen-music-694968a5.zappy5.app/services
+שירותי DJ מקצועיים לחתונות, בר/בת מצווה, אירועים פרטיים ועסקיים. מוזיקה, תאורה וחוויה בלתי נשכחת.
+
+### אודות
+https://almog-cohen-music-694968a5.zappy5.app/about
+הכירו את אלמוג כהן, DJ מקצועי עם שנות ניסיון באירועי חתונות, בר/בת מצווה ואירועים פרטיים. מוזיקה שיוצרת רגעים.
+
+### צור קשר
+https://almog-cohen-music-694968a5.zappy5.app/contact
+צרו קשר עם אלמוג כהן, DJ מקצועי לחתונות ואירועים. קבלו הצעת מחיר מותאמת אישית ויעוץ חינם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://almog-cohen-music-694968a5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://almog-cohen-music-694968a5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://almog-cohen-music-694968a5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About almog cohen music
+almog cohen music is a business in the music industry.
+
+## Target Audience
+event organizers, wedding couples, bar/bat mitzvah families, aspiring DJs
+
+## Industry
+music
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://almog-cohen-music-694968a5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://almog-cohen-music-694968a5.zappy5.app/robots.txt

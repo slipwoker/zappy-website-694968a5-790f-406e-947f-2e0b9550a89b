@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almog-cohen-music-694968a5.zappy5.app/sitemap.xml
